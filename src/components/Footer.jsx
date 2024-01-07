@@ -52,7 +52,7 @@ const Footer = () => {
               </div>
               <p className="footer-information-turkey-address-p">
                 <a
-                  href="https://www.google.com/maps/search/Nam%C4%B1k+Kemal,+%C4%B0n%C3%B6n%C3%BC+Cad.+No:196+D:1,+16270+Osmangazi%2FBursa,+T%C3%BCrkiye/@40.199124,29.0741661,17z/data=!3m1!4b1?entry=ttu"
+                  href="https://www.google.com/maps/search/Namık+Kemal,+İnönü+Cad.+No:193+D:1,+16270+Osmangazi%2FBursa,+Türkiye/@40.2077421,29.0782507,17z/data=!3m1!4b1?entry=ttu"
                   target="_blank"
                   rel="noreferrer"
                 >
